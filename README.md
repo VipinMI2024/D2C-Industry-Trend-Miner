@@ -65,4 +65,4 @@ You can also add more news sources by adding more `RSS Read` nodes and connectin
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information
